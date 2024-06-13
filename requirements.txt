@@ -1,1 +1,3 @@
 selenium=4.21.0
+fake-useragent=1.5.1
+undetected-chromedriver3.5.5
